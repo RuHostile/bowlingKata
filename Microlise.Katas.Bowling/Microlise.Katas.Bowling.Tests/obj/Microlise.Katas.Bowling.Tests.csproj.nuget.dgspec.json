@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.Tests\\Microlise.Katas.Bowling.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.Tests\\Microlise.Katas.Bowling.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.Tests\\Microlise.Katas.Bowling.Tests.csproj",
+        "projectName": "Microlise.Katas.Bowling.Tests",
+        "projectPath": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.Tests\\Microlise.Katas.Bowling.Tests.csproj",
+        "packagesPath": "C:\\Users\\DJB35\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJB35\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.csproj": {
+                "projectPath": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.csproj",
+        "projectName": "Microlise.Katas.Bowling",
+        "projectPath": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling.csproj",
+        "packagesPath": "C:\\Users\\DJB35\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJB35\\source\\repos\\bowlingKata\\Microlise.Katas.Bowling\\Microlise.Katas.Bowling\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DJB35\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
