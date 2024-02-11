@@ -1,0 +1,12 @@
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\bin\Debug\net8.0\Microlise.Bowling.Kata.deps.json
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\bin\Debug\net8.0\Microlise.Bowling.Kata.dll
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\bin\Debug\net8.0\Microlise.Bowling.Kata.pdb
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.AssemblyInfoInputs.cache
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.AssemblyInfo.cs
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.csproj.CoreCompileInputs.cache
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.sourcelink.json
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.dll
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\refint\Microlise.Bowling.Kata.dll
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\Microlise.Bowling.Kata.pdb
+C:\Users\Mesh\Documents\github\bowlingKata\Microlise.Bowling.Kata\Microlise.Bowling.Kata\obj\Debug\net8.0\ref\Microlise.Bowling.Kata.dll
