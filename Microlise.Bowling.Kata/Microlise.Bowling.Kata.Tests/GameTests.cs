@@ -3,7 +3,8 @@ using System.Runtime.ExceptionServices;
 
 namespace Microlise.Bowling.Kata.Tests
 {
-    public class Tests
+    [TestFixture]
+    public class GameTests
     {
         private Game _game;
         [SetUp]
@@ -46,9 +47,21 @@ namespace Microlise.Bowling.Kata.Tests
         }
 
         [Test]
-        public void Game_3()
+        public void Game_AfterStrike_ReturnsCorrectScore()
         {
-            Assert.Pass();
+            _game.RollBall(10);
+            _game.RollBall(5);
+            _game.RollBall(3);
+
+            Assert.That(_game.Score, Is.EqualTo(26));
+        }
+
+        [Test]
+        public void Game_APerfectGame_ReturnsCorrectScore()
+        {
+            RollMany(12, 10);
+
+            Assert.That(_game.Score(), Is.EqualTo(300));
         }
 
         private void RollMany(int ballsRolled, int pinsKnockedOver)
